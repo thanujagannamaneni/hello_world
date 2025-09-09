@@ -1,2 +1,4 @@
 # hello_world
-"My first github repo, learning C"
+"My first github repository"
+I'm Learning C ,HTML/CSS and GitHub.
+
